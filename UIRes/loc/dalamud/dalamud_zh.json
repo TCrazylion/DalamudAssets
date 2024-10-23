@@ -1,10 +1,10 @@
 {
   "DateTimeSpanExtensions.RelativeFormatStringsLong": {
-    "message": "172800,{0:%d}天前\n86400,昨天\n7200,{0:%h}小时前\n3600,1小时前\n120, {0:%m}分钟前\n60,1分钟前\n2,{0:%s}秒前\n1,1秒前\n- 无限,刚刚",
+    "message": "172800,{0:%d}天前\n86400,昨天\n7200,{0:%h}小时前\n3600,1小时前\n120, {0:%m}分钟前\n60,1分钟前\n2,{0:%s}秒前\n1,1秒前\n-Infinity,刚刚",
     "description": "DateTimeSpanExtensions.LocRelativePastLong"
   },
   "DateTimeSpanExtensions.RelativeFormatStringsShort": {
-    "message": "86400,{0:%d}天\n3600,{0:%h}小时\n60,{0:%m}分\n1,{0:%s}秒\n-无限,现在",
+    "message": "86400,{0:%d}天\n3600,{0:%h}小时\n60,{0:%m}分\n1,{0:%s}秒\n-Infinity,现在",
     "description": "DateTimeSpanExtensions.LocRelativePastShort"
   },
   "DalamudInstallerPluginChangelogHelp": {
@@ -1452,7 +1452,7 @@
     "description": "Locs.get_TutorialTitle"
   },
   "ProfileManagerTutorialParagraphOne": {
-    "message": "合集是可以共享的插件列表，这些插件可以在插件安装程序或聊天命令中启用或禁用。\n插件乳沟在任意启用的合集中就会被启用。",
+    "message": "合集是可以共享的插件列表，这些插件可以在插件安装程序或聊天命令中启用或禁用。\n插件如果在任意启用的合集中就会被启用。",
     "description": "Locs.get_TutorialParagraphOne"
   },
   "ProfileManagerTutorialParagraphTwo": {
