@@ -1456,7 +1456,7 @@
     "description": "Locs.get_TutorialParagraphOne"
   },
   "ProfileManagerTutorialParagraphTwo": {
-    "message": "在编辑此屏幕上的合集时，您可以点击加号按钮添加插件。 或者用工具栏上图标 \\",
+    "message": "在编辑此屏幕上的合集时，您可以点击加号按钮添加插件。 或者用工具栏上图标 ",
     "description": "Locs.get_TutorialParagraphTwo"
   },
   "ProfileManagerTutorialParagraphThree": {
